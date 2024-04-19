@@ -25,8 +25,6 @@ OCTO_CLIENT_TOKEN=<your key here>
 Run `dev` script to fire up server.
 ```bash
 npm run dev
-```
 
-That's it! if you head to `localhost:3000` you should see the app running.
-### Example usage
+### Uploading PDF file
 Upload a PDF file using the Upload button, and see both the current pdf text on the left, and the summarized version on the right.
